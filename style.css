@@ -13,6 +13,10 @@ body{
 }
 
 
+img{
+    max-width: 100%;
+}
+
 section{
     display: flex;
     justify-content: center;
@@ -26,7 +30,7 @@ section{
 
 .left{
     flex: 1;
-    background: url(./pexels-ali-pazani-2777898.jpg);
+    background: url(./foto1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
